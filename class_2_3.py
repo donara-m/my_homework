@@ -163,6 +163,3 @@ print(F"After increase {my_product.product_quantity}")
 
 my_product.quantity_decrease(3)
 print(F"After decrease {my_product.product_quantity}")
-
-
-
